@@ -22,3 +22,23 @@ venv/
 target/
 dist/
 build/
+
+
+# Security & Bloat Exclusions
+.env
+*.json
+!package.json
+!manifest.json
+!tsconfig.json
+!*.ipynb
+*.pem
+*.key
+*.log
+*.zip
+*.tar
+*.gz
+node_modules/
+venv/
+target/
+dist/
+build/
