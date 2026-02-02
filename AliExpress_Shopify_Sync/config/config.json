@@ -1,0 +1,22 @@
+{
+    "generated_by": "Automation Setup",
+    "shopify": {
+        "shop_url": "your-store.myshopify.com",
+        "access_token": "shpat_xxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "api_version": "2024-01"
+    },
+    "google_sheets": {
+        "spreadsheet_id": "1A2B3C4D5E6F7G8H9I0J",
+        "worksheet_name": "Sheet1",
+        "credentials_file": "config/credentials.json",
+        "columns": {
+            "aliexpress_order_id": "AliExpress Order No",
+            "tracking_number": "Tracking Number"
+        }
+    },
+    "settings": {
+        "ali_id_location_in_shopify": "note_attributes",
+        "ali_id_attribute_name": "AliExpress Order ID",
+        "dry_run": true
+    }
+}

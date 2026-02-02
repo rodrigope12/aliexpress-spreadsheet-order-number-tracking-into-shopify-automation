@@ -1,0 +1,3 @@
+Timestamp,AliExpress ID,Tracking Number,Shopify Order Name,Status,Message
+2026-02-02T09:55:06.712246,12345,TRACK123,#1001,Success,Updated successfully
+2026-02-02T09:55:06.712251,67890,,N/A,Failed,No tracking number
